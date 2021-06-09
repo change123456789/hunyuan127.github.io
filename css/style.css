@@ -1044,7 +1044,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   justify-content: center;
   align-items: center;
   color: #fff;
-  background: #42b983;
+  background: rgba(66,185,131,0.8);
 }
 .footer .footer-main {
   text-align: center;
